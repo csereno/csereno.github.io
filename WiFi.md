@@ -1,3 +1,10 @@
+---
+layout: page
+title: WiFi
+permalink: /wifi/
+---
+
+
 SSID: *****Guest
 
 Password: serenonet1
