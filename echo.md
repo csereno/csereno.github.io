@@ -1,6 +1,6 @@
 ---
 layout: page
-title: echp
+title: echo
 permalink: /echo/
 ---
 
