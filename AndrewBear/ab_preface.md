@@ -1,6 +1,6 @@
 ---
 layout: page
-title: preface
+title: Preface
 permalink: /andrewbear/preface
 ---
 
