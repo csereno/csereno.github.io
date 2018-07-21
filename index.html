@@ -4,18 +4,3 @@ layout: default
 <h1>Welcome!</h1>
 
 We welcome you to our home and want your stay to be enjoyable. Please select an option from the menu for additional info.
-
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
