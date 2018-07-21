@@ -9,4 +9,9 @@ permalink: /andrewbear/
 
 
 <p style="text-align: center;" markdown="1">By Dad</p>
-<p style="text-align: center;" markdown="1">Bear design by Uncle</p>
+<p style="text-align: center;" markdown="1">Bear design by Uncle Mike</p>
+
+
+
+
+[_Next Page_](/Preface)
