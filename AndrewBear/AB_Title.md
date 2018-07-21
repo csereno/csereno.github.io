@@ -14,4 +14,4 @@ permalink: /andrewbear/
 
 
 
-[_Next Page_](/Preface)
+[_Next Page_](/andrewbear/preface)
