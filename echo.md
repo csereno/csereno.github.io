@@ -1,7 +1,7 @@
 ---
 layout: page
 title: echo
-permalink: /echo/
+permalink: /echo
 ---
 
 The Amazon Echo has number of voice-activated commands you can make use of. Here are a few of our commonly used ones:
