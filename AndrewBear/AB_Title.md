@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /andrewbear/
+permalink: /andrewbear
 ---
 
 <h4 style="text-align: center;" markdown="1">The life and stories</h4>
