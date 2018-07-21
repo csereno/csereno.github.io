@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Andrew Bear Title
 permalink: /andrewbear/
 ---
 
