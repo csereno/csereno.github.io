@@ -8,6 +8,9 @@ permalink: /andrewbear
 <h1 style="text-align: center;" markdown="1">Andrew Bear</h1>
 
 
+<img src="csereno.github.io/AndrewBear/1533093434409.png>
+
+
 <p style="text-align: center;" markdown="1">By Dad</p>
 <p style="text-align: center;" markdown="1">Bear design by Uncle Mike</p>
 
