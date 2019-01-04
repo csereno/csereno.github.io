@@ -12,8 +12,12 @@ _Our Echo is programmed to respond to 'echo.'_
 + Set a timer
 + Tell a joke
 + Good morning (provides a summary for the morning)
++ What is my flash briefing? (reads a Bible story for kids and says the weather)
 + Sing a song
 + Kitchen questions such as how many cups are in a quart
+
+## Lighting Control
+ + Turn on the living room lamp
 
 ## Plex
 Our Plex server is connected to the Echo. Here are some useful commands:
