@@ -11,4 +11,4 @@ You see, on the day of his birth there was a great celebration in the forest. Al
 From his very first day, all he’s known is the Shiny Forest and the amazing things that have occurred since that time. This is the life and story of Andrew Bear.
 
 
-[_Prev Page_](/andrewbear/ab_preface)     [_Next Page_](/andrewbear/story2)
+[_Prev Page_](/andrewbear/preface)     [_Next Page_](/andrewbear/story2)
