@@ -4,25 +4,25 @@ I’ve noticed in the past (and even twice since I’ve been updating lists late
 
 Let me know if you have any questions! 
 
-## Chris:
+## Chris:  
 https://www.amazon.com/gp/registry/wishlist/S8JO1I03NARY
 
-## Lindsay: 
+## Lindsay:  
 https://www.amazon.com/hz/wishlist/ls/3FW2KBB7B2DBM?ref_=wl_share
 
-## Tristan:
+## Tristan:  
 https://www.amazon.com/hz/wishlist/ls/1GPQ74YDASYHD?ref_=wl_share
 
-## Kipton:
+## Kipton:  
 https://www.amazon.com/hz/wishlist/ls/21X2BNCAZMD8I?ref_=wl_share
 
-## Tristan and Kipton:
+## Tristan and Kipton:  
 https://www.amazon.com/hz/wishlist/ls/BRRPKAJ8HNNC?ref_=wl_share
 
-## Brayden:
+## Brayden:  
 https://www.amazon.com/hz/wishlist/ls/DAQ641V7KV1J?ref_=wl_share
 
-## Brielle:
+## Brielle:  
 https://www.amazon.com/hz/wishlist/ls/3HMIYTQ7886R9?ref_=wl_share
 
 ## Brayden and Brielle:  
