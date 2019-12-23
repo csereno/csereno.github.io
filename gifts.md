@@ -4,8 +4,8 @@ I’ve noticed in the past (and even twice since I’ve been updating lists late
 
 Let me know if you have any questions! 
 
-## Chris:  
-https://www.amazon.com/gp/registry/wishlist/S8JO1I03NARY
+## Chris:
+[Chris's Amazon list](https://www.amazon.com/gp/registry/wishlist/S8JO1I03NARY)
 
 ## Lindsay:  
 https://www.amazon.com/hz/wishlist/ls/3FW2KBB7B2DBM?ref_=wl_share
