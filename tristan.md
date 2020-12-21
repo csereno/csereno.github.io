@@ -4,6 +4,6 @@ title: Tristan
 permalink: /tristan
 ---
 
-#Badges
+## Badges
 
 ![Bible badge](/images/badges/bible-badge.png)
