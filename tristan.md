@@ -6,4 +6,4 @@ permalink: /tristan
 
 ## Badges
 
-![Bible badge](/images/badges/bible-badge.png)
+![Bible badge](/images/badges/bible-badge.png) ![ABC badge](/images/badges/badges-abc.png)
